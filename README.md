@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Read Myself
+-----------
+
+This is a ToDo-List application build using ReactJS.
+We can view list of Todos. 
+Also add new Todo to the list. 
+Onclick of Todo row allows to delete the Todo.
